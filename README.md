@@ -61,9 +61,9 @@ Configuration requires an .env file based configuration, based on [roots/wp-conf
 In your theme's `functions.php`:
 
 ```php
-use Larsgowebdev\WpMuplugin\ViteAssetCollectorWp\ViteAssetCollector;
-use Larsgowebdev\WpMuplugin\ViteAssetCollectorWp\Exception\ViteException;
-use Larsgowebdev\WpMuplugin\ViteAssetCollectorWp\ErrorHandler\ViteErrorHandler;
+use Larsgowebdev\ViteAssetCollectorWp\ViteAssetCollector;
+use Larsgowebdev\ViteAssetCollectorWp\Exception\ViteException;
+use Larsgowebdev\ViteAssetCollectorWp\ErrorHandler\ViteErrorHandler;
 
 try {
     $vite = new ViteAssetCollector(

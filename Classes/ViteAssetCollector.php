@@ -1,8 +1,8 @@
 <?php
 
-namespace Larsgowebdev\WpMuplugin\ViteAssetCollectorWp;
+namespace Larsgowebdev\ViteAssetCollectorWp;
 
-use Larsgowebdev\WpMuplugin\ViteAssetCollectorWp\Manifest\ViteManifest;
+use Larsgowebdev\ViteAssetCollectorWp\Manifest\ViteManifest;
 use Roots\WPConfig\Config;
 
 class ViteAssetCollector

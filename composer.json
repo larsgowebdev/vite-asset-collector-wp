@@ -5,7 +5,7 @@
   "license": [
     "GPL-2.0-or-later"
   ],
-  "version": "0.4.0",
+  "version": "0.5.0",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "authors": [
@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Larsgowebdev\\WpMuplugin\\ViteAssetCollectorWp\\" : "Classes/"
+      "Larsgowebdev\\ViteAssetCollectorWp\\" : "Classes/"
     }
   }
 }

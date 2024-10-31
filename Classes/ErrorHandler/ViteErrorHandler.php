@@ -1,9 +1,9 @@
 <?php
 
-namespace Larsgowebdev\WpMuplugin\ViteAssetCollectorWp\ErrorHandler;
+namespace Larsgowebdev\ViteAssetCollectorWp\ErrorHandler;
 
 use JetBrains\PhpStorm\NoReturn;
-use Larsgowebdev\WpMuplugin\ViteAssetCollectorWp\Exception\ViteException;
+use Larsgowebdev\ViteAssetCollectorWp\Exception\ViteException;
 use Roots\WPConfig\Config;
 
 class ViteErrorHandler

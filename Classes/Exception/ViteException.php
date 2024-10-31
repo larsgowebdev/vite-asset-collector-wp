@@ -1,6 +1,6 @@
 <?php
 
-namespace Larsgowebdev\WpMuplugin\ViteAssetCollectorWp\Exception;
+namespace Larsgowebdev\ViteAssetCollectorWp\Exception;
 
 use Exception;
 

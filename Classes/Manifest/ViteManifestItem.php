@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Larsgowebdev\WpMuplugin\ViteAssetCollectorWp\Manifest;
+namespace Larsgowebdev\ViteAssetCollectorWp\Manifest;
 
 readonly class ViteManifestItem
 {

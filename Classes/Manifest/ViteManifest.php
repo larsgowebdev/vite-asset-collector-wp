@@ -1,8 +1,8 @@
 <?php
 
-namespace Larsgowebdev\WpMuplugin\ViteAssetCollectorWp\Manifest;
+namespace Larsgowebdev\ViteAssetCollectorWp\Manifest;
 
-use Larsgowebdev\WpMuplugin\ViteAssetCollectorWp\Exception\ViteException;
+use Larsgowebdev\ViteAssetCollectorWp\Exception\ViteException;
 
 class ViteManifest
 {
